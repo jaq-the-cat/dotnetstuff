@@ -1,0 +1,16 @@
+/home/jaqq/dev/dotnetstuff/bin/Debug/net5.0/dotnetstuff
+/home/jaqq/dev/dotnetstuff/bin/Debug/net5.0/dotnetstuff.deps.json
+/home/jaqq/dev/dotnetstuff/bin/Debug/net5.0/dotnetstuff.runtimeconfig.json
+/home/jaqq/dev/dotnetstuff/bin/Debug/net5.0/dotnetstuff.runtimeconfig.dev.json
+/home/jaqq/dev/dotnetstuff/bin/Debug/net5.0/dotnetstuff.dll
+/home/jaqq/dev/dotnetstuff/bin/Debug/net5.0/ref/dotnetstuff.dll
+/home/jaqq/dev/dotnetstuff/bin/Debug/net5.0/dotnetstuff.pdb
+/home/jaqq/dev/dotnetstuff/obj/Debug/net5.0/dotnetstuff.csproj.AssemblyReference.cache
+/home/jaqq/dev/dotnetstuff/obj/Debug/net5.0/dotnetstuff.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaqq/dev/dotnetstuff/obj/Debug/net5.0/dotnetstuff.AssemblyInfoInputs.cache
+/home/jaqq/dev/dotnetstuff/obj/Debug/net5.0/dotnetstuff.AssemblyInfo.cs
+/home/jaqq/dev/dotnetstuff/obj/Debug/net5.0/dotnetstuff.csproj.CoreCompileInputs.cache
+/home/jaqq/dev/dotnetstuff/obj/Debug/net5.0/dotnetstuff.dll
+/home/jaqq/dev/dotnetstuff/obj/Debug/net5.0/ref/dotnetstuff.dll
+/home/jaqq/dev/dotnetstuff/obj/Debug/net5.0/dotnetstuff.pdb
+/home/jaqq/dev/dotnetstuff/obj/Debug/net5.0/dotnetstuff.genruntimeconfig.cache
